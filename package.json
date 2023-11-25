@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "react-bootstrap": "^2.9.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-editor": "^1.4.0",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-icons": "^4.12.0",
+    "sweetalert2": "^11.10.1"
+  }
+}
